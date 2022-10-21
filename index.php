@@ -9,10 +9,10 @@
   </head>
   <body>
     <div class="grand-parent">
-      <h6>Enter Decimal</h6>
+      <h6>Deciamal and Binary</h6>
       <div class="parent">
         <div class="child">
-          <p>Decimal to Binary</p>
+          <p>Enter binary</p>
           <label for="dec-inp">
             <input type="number" id="dec-inp" />
             <span class="placeholder">Decimal</span>
